@@ -1,0 +1,121 @@
+<http://linkedjazz.org/resource/Nicholas_Brothers> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Nicholas_Brothers.png" .
+<http://linkedjazz.org/resource/Nicholas_Brothers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Nicholas_Brothers> <http://xmlns.com/foaf/0.1/name> "Nicholas Brothers" .
+<http://linkedjazz.org/resource/Pat_Dane> <http://xmlns.com/foaf/0.1/name> "Pat Dane" .
+<http://linkedjazz.org/resource/Pat_Dane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Pat_Dane> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Pat_Dane.png" .
+<http://linkedjazz.org/resource/Joyce_DeFranco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Joyce_DeFranco> <http://xmlns.com/foaf/0.1/name> "Joyce DeFranco" .
+<http://linkedjazz.org/resource/Joyce_DeFranco> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Joyce_DeFranco.png" .
+<http://linkedjazz.org/resource/Leonard_DeFranco> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Leonard_DeFranco.png" .
+<http://linkedjazz.org/resource/Leonard_DeFranco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Leonard_DeFranco> <http://xmlns.com/foaf/0.1/name> "Leonard DeFranco" .
+<http://linkedjazz.org/resource/Neal_Tate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Neal_Tate> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Neal_Tate.png" .
+<http://linkedjazz.org/resource/Neal_Tate> <http://xmlns.com/foaf/0.1/name> "Neal Tate" .
+<http://linkedjazz.org/resource/Edgar_Bateman> <http://xmlns.com/foaf/0.1/name> "Edgar Bateman" .
+<http://linkedjazz.org/resource/Edgar_Bateman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Edgar_Bateman> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Edgar_Bateman.png" .
+<http://linkedjazz.org/resource/Hal_Schaffer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Hal_Schaffer> <http://xmlns.com/foaf/0.1/name> "Hal Schaffer" .
+<http://linkedjazz.org/resource/Hal_Schaffer> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Hal_Schaffer.png" .
+<http://linkedjazz.org/resource/Bill_Cook(manager)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Bill_Cook(manager)> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Bill_Cook.png" .
+<http://linkedjazz.org/resource/Bill_Cook(manager)> <http://xmlns.com/foaf/0.1/name> "Bill Cook" .
+<http://linkedjazz.org/resource/John_Denman> <http://xmlns.com/foaf/0.1/name> "John Denman" .
+<http://linkedjazz.org/resource/John_Denman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/John_Denman> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/John_Denman.png" .
+<http://linkedjazz.org/resource/Joe_Adams_(producer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Joe_Adams_(producer)> <http://xmlns.com/foaf/0.1/name> "Joe Adams" .
+<http://linkedjazz.org/resource/Joe_Adams_(producer)> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Joe_Adams.png" .
+<http://linkedjazz.org/resource/Willard_Alexander_(manager)> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Willard_Alexander.png" .
+<http://linkedjazz.org/resource/Willard_Alexander_(manager)> <http://xmlns.com/foaf/0.1/name> "Willard Alexander" .
+<http://linkedjazz.org/resource/Willard_Alexander_(manager)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Michael_Butler> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Michael_Butler.png" .
+<http://linkedjazz.org/resource/Michael_Butler> <http://xmlns.com/foaf/0.1/name> "Michael Butler" .
+<http://linkedjazz.org/resource/Michael_Butler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Tom_Gumina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Tom_Gumina> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Tom_Gumina.png" .
+<http://linkedjazz.org/resource/Tom_Gumina> <http://xmlns.com/foaf/0.1/name> "Tom Gumina" .
+<http://linkedjazz.org/resource/Vito_Pascucci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Vito_Pascucci> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Vito_Pascucci.png" .
+<http://linkedjazz.org/resource/Vito_Pascucci> <http://xmlns.com/foaf/0.1/name> "Vito Pascucci" .
+<http://linkedjazz.org/resource/Esther_Williams> <http://xmlns.com/foaf/0.1/name> "Esther Williams" .
+<http://linkedjazz.org/resource/Esther_Williams> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Esther_Williams.png" .
+<http://linkedjazz.org/resource/Esther_Williams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Billy_Krechmer> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Billy_Krechmer.png" .
+<http://linkedjazz.org/resource/Billy_Krechmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Billy_Krechmer> <http://xmlns.com/foaf/0.1/name> "Billy Krechmer" .
+<http://linkedjazz.org/resource/Winnie_Brown> <http://xmlns.com/foaf/0.1/name> "Winnie Brown" .
+<http://linkedjazz.org/resource/Winnie_Brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Winnie_Brown> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Winnie_Brown.png" .
+<http://linkedjazz.org/resource/Lem_Neal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Lem_Neal> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Lem_Neal.png" .
+<http://linkedjazz.org/resource/Lem_Neal> <http://xmlns.com/foaf/0.1/name> "Lem Neal" .
+<http://linkedjazz.org/resource/Billy_VerPlanck> <http://xmlns.com/foaf/0.1/name> "Billy VerPlanck" .
+<http://linkedjazz.org/resource/Billy_VerPlanck> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Billy_VerPlanck.png" .
+<http://linkedjazz.org/resource/Billy_VerPlanck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Lance_Boyd> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Lance_Boyd.png" .
+<http://linkedjazz.org/resource/Lance_Boyd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Lance_Boyd> <http://xmlns.com/foaf/0.1/name> "Lance Boyd" .
+<http://linkedjazz.org/resource/Bobby_White> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Bobby_White.png" .
+<http://linkedjazz.org/resource/Bobby_White> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Bobby_White> <http://xmlns.com/foaf/0.1/name> "Bobby White" .
+<http://linkedjazz.org/resource/Bill_Jennings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Bill_Jennings> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Bill_Jennings.png" .
+<http://linkedjazz.org/resource/Bill_Jennings> <http://xmlns.com/foaf/0.1/name> "Bill Jennings" .
+<http://linkedjazz.org/resource/Alan_Fontaine_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Alan_Fontaine_(musician)> <http://xmlns.com/foaf/0.1/name> "Alan Fontaine" .
+<http://linkedjazz.org/resource/Alan_Fontaine_(musician)> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Alan_Fontaine.png" .
+<http://linkedjazz.org/resource/Steve_Botek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Steve_Botek> <http://xmlns.com/foaf/0.1/name> "Steve Botek" .
+<http://linkedjazz.org/resource/Steve_Botek> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Steve_Botek.png" .
+<http://linkedjazz.org/resource/Dickie_Sims> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Dickie_Sims.png" .
+<http://linkedjazz.org/resource/Dickie_Sims> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Dickie_Sims> <http://xmlns.com/foaf/0.1/name> "Dickie Sims" .
+<http://linkedjazz.org/resource/Billy_Shaw> <http://xmlns.com/foaf/0.1/name> "Billy Shaw" .
+<http://linkedjazz.org/resource/Billy_Shaw> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Billy_Shaw.png" .
+<http://linkedjazz.org/resource/Billy_Shaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Jimmy_Evans> <http://xmlns.com/foaf/0.1/name> "Jimmy Evans" .
+<http://linkedjazz.org/resource/Jimmy_Evans> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Jimmy_Evans.png" .
+<http://linkedjazz.org/resource/Jimmy_Evans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Todd_Barkan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Todd_Barkan> <http://xmlns.com/foaf/0.1/name> "Todd Barkan" .
+<http://linkedjazz.org/resource/Todd_Barkan> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Todd_Barkan.png" .
+<http://linkedjazz.org/resource/Alvin_Queen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Alvin_Queen> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Alvin_Queen.png" .
+<http://linkedjazz.org/resource/Alvin_Queen> <http://xmlns.com/foaf/0.1/name> "Alvin Queen" .
+<http://linkedjazz.org/resource/Jimmy_Pupa> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Jimmy_Pupa.png" .
+<http://linkedjazz.org/resource/Jimmy_Pupa> <http://xmlns.com/foaf/0.1/name> "Jimmy Pupa" .
+<http://linkedjazz.org/resource/Jimmy_Pupa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Bill_Strumpets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Bill_Strumpets> <http://xmlns.com/foaf/0.1/name> "Bill Strumpets" .
+<http://linkedjazz.org/resource/Bill_Strumpets> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Bill_Strumpets.png" .
+<http://linkedjazz.org/resource/Galt_McDermott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Galt_McDermott> <http://xmlns.com/foaf/0.1/name> "Galt McDermott" .
+<http://linkedjazz.org/resource/Galt_McDermott> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Galt_McDermott.png" .
+<http://linkedjazz.org/resource/Bobby_Graf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Bobby_Graf> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Bobby_Graf.png" .
+<http://linkedjazz.org/resource/Bobby_Graf> <http://xmlns.com/foaf/0.1/name> "Bobby Graf" .
+<http://linkedjazz.org/resource/Lenny_Sinisgalli> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Lenny_Sinisgalli.png" .
+<http://linkedjazz.org/resource/Lenny_Sinisgalli> <http://xmlns.com/foaf/0.1/name> "Lenny Sinisgalli" .
+<http://linkedjazz.org/resource/Lenny_Sinisgalli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Jack_Silverman> <http://xmlns.com/foaf/0.1/name> "Jack Silverman" .
+<http://linkedjazz.org/resource/Jack_Silverman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Jack_Silverman> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Jack_Silverman.png" .
+<http://linkedjazz.org/resource/Ray_Burns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Ray_Burns> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Ray_Burns.png" .
+<http://linkedjazz.org/resource/Ray_Burns> <http://xmlns.com/foaf/0.1/name> "Ray Burns" .
+<http://linkedjazz.org/resource/Happy_Cotrill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Happy_Cotrill> <http://xmlns.com/foaf/0.1/name> "Happy Cotrill" .
+<http://linkedjazz.org/resource/Happy_Cotrill> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Happy_Cotrill.png" .
+<http://linkedjazz.org/resource/William_D_Simone> <http://xmlns.com/foaf/0.1/name> "William D. Simone" .
+<http://linkedjazz.org/resource/William_D_Simone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/William_D_Simone> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/William_D._Simone.png" .
+<http://linkedjazz.org/resource/Albert_Raymond_Streit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Albert_Raymond_Streit> <http://xmlns.com/foaf/0.1/name> "Albert Raymond Streit" .
+<http://linkedjazz.org/resource/Albert_Raymond_Streit> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Albert_Raymond_Streit.png" .
+<http://linkedjazz.org/resource/Ronnie_Aldrich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://linkedjazz.org/resource/Ronnie_Aldrich> <http://xmlns.com/foaf/0.1/name> "Ronnie Aldrich" .
+<http://linkedjazz.org/resource/Ronnie_Aldrich> <http://xmlns.com/foaf/0.1/depiction> "https://linkedjazz.org/image/square/Ronnie_Aldrich.png" .
+
